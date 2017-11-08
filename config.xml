@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     	<widget xmlns   = "http://www.w3.org/ns/widgets"
 		xmlns:gap   = "http://phonegap.com/ns/1.0"
-		id          = "es.juntadeandalucia.mapea.sepim.carrion"
-		versionCode = "101" 
-		version     = "1.0.1" >
+		id          = "es.juntadeandalucia.mapea.sepim.bujalance"
+		versionCode = "100" 
+		version     = "1.0.0" >
 
-	<name>Guía Carrión de los Céspedes</name>
+	<name>GUÍA OFICIAL DE BUJALANCE</name>
 	<description>
-		Encontrarás toda la información de interés para visitar Carrión de los Céspedes.
+		Guía que servirá para conocer toda la información para visitar Bujalance.
 	</description>
 	<author email="sepim.ieca@juntadeandalucia.es" href="http://www.callejerodeandalucia.es/">
 		Junta de Andalucía
