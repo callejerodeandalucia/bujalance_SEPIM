@@ -2,12 +2,12 @@
     	<widget xmlns   = "http://www.w3.org/ns/widgets"
 		xmlns:gap   = "http://phonegap.com/ns/1.0"
 		id          = "es.juntadeandalucia.mapea.sepim.bujalance"
-		versionCode = "102" 
-		version     = "1.0.2" >
+		versionCode = "103" 
+		version     = "1.0.3" >
 
 	<name>GUÍA OFICIAL DE BUJALANCE</name>
 	<description>
-		Guía que servirá para conocer toda la información para visitar Bujalance.
+		Guía que servirá para conocer toda la información para visitar Bujalance y Morente.
 	</description>
 	<author email="sepim.ieca@juntadeandalucia.es" href="http://www.callejerodeandalucia.es/">
 		Junta de Andalucía
